@@ -7,8 +7,6 @@
 # url: https://github.com/viroulep/discourse-wca-id
 
 register_asset 'stylesheets/common/discourse-wca-id.scss'
-register_asset 'stylesheets/desktop/discourse-wca-id.scss'
-register_asset 'stylesheets/mobile/discourse-wca-id.scss'
 
 enabled_site_setting :discourse_wca_id_enabled
 
